@@ -4,7 +4,7 @@ In this project, we built a functional blogging system without commenting abilit
 New users can sign up, they will be able then to publish new articles and see who published other articles.
 The public can see all articles also but without the name of the users who published them.
 
-![screenshot](./app/assets/images/member_screenhot.jpg)
+![screenshot](./app/assets/images/member_screenshot.jpg)
 
 ## Ruby version 
 
